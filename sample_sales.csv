@@ -1,0 +1,9 @@
+Region,Product,Revenue,Quarter
+North,Product A,12000,Q1
+South,Product B,15000,Q1
+West,Product C,9000,Q1
+East,Product A,11000,Q2
+North,Product B,18000,Q2
+South,Product C,14000,Q2
+West,Product A,10000,Q3
+East,Product B,13000,Q3
